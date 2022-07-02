@@ -153,7 +153,7 @@ a i{
 }
 
 #hero{
-    background-image: url("/Imagenes/Montaña.jpg");
+    background-image: url("../Imagenes/Montaña.jpg");
     background-size: cover;
     padding-top: 90px;
     min-height: 00px;
