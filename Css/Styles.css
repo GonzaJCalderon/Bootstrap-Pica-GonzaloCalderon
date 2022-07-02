@@ -132,6 +132,7 @@ a i{
     background-color: #edcb54;
     box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
     min-height: 100px;
+    z-index: 9000;
 
 }
 
@@ -197,7 +198,7 @@ a i{
     position: absolute;
     bottom:25px;
     left: 25px;
-    z-index: 9000;
+    z-index: 5000;
 }
 
 .portfolio-details h2{
